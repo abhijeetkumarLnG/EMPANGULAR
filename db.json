@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "profile": "Profile-02.jpg",
+      "firstname": "Shalni",
+      "lastname": "Kumari",
+      "birthdate": "1998-02-07",
+      "gender": "f",
+      "education": "M.tech",
+      "jobExperience": 3,
+      "salary": 8,
+      "id": 4
+    },
+    {
+      "profile": "Profile-04.jpg",
+      "firstname": "Raghav",
+      "lastname": "Kumar",
+      "birthdate": "2001-02-02",
+      "gender": "m",
+      "education": "B.tech",
+      "jobExperience": 1,
+      "salary": 5,
+      "id": 5
+    },
+    {
+      "profile": "profile-06.jpg",
+      "firstname": "Abhijeet",
+      "lastname": "Kumar",
+      "birthdate": "2023-05-11",
+      "gender": "m",
+      "education": "B.tech",
+      "jobExperience": 3,
+      "salary": 14,
+      "id": 7
+    },
+    {
+      "profile": "Profile-03.jpg",
+      "firstname": "Katty",
+      "lastname": "Peri",
+      "birthdate": "2000-06-07",
+      "gender": "f",
+      "education": "M.tech",
+      "jobExperience": 2,
+      "salary": 8,
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
