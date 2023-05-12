@@ -41,8 +41,19 @@
       "gender": "f",
       "education": "M.tech",
       "jobExperience": 2,
-      "salary": 8,
+      "salary": 9,
       "id": 8
+    },
+    {
+      "profile": "Profile-07.jpg",
+      "firstname": "Meet",
+      "lastname": "Bros",
+      "birthdate": "1995-01-03",
+      "gender": "",
+      "education": "PhD",
+      "jobExperience": 10,
+      "salary": 7,
+      "id": 9
     }
   ],
   "comments": [],
