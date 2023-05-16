@@ -1,6 +1,6 @@
 {
   "name": "empangular",
-  "version": "1.4.28",
+  "version": "18.16.0",
   "scripts": {
     "ng": "ng",
     "start:server":"json-server --watch db.json",
